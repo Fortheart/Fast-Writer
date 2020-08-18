@@ -1,0 +1,28 @@
+{
+  "name": "fast-writer",
+  "version": "1.0.0",
+  "description": "Simple fast typing game made in pure JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fortheart/Fast-Writer.git"
+  },
+  "keywords": [
+    "Fast",
+    "Typing",
+    "Game",
+    "JavaScript"
+  ],
+  "author": "Martin Zvozil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fortheart/Fast-Writer/issues"
+  },
+  "homepage": "https://github.com/Fortheart/Fast-Writer#readme",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
